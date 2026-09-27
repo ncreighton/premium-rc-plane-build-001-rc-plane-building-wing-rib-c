@@ -1,0 +1,2 @@
+# premium-rc-plane-build-001-rc-plane-building-wing-rib-c
+Tired of manually tracking wing rib dimensions, forgetting material specs, or ending up with mismatched ribs that ruin your airfoil? This Notion Lab brings engineering precision to your RC plane build.  The RC Plane Building &amp; Wing Rib Craft Lab solves the chaos of scattered notes and unreliable memory by giving you a structured system to design, c
